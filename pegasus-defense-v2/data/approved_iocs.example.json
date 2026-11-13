@@ -1,0 +1,10 @@
+[
+  {
+    "type": "domain",
+    "value": "example.invalid",
+    "source": "Example only - replace with a trusted, attributable source",
+    "confidence": "high",
+    "verified": true,
+    "expires_at": "2027-01-01T00:00:00Z"
+  }
+]
