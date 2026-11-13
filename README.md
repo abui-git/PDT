@@ -23,7 +23,7 @@ Defensive, offline-first IOC auditing and reviewable blocklist generation for ma
 From Terminal:
 
 ```bash
-cd ~/pegasus-defense-v2
+cd ~/PDT
 python3 --version
 python3 -m venv .venv
 source .venv/bin/activate
